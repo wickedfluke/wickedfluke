@@ -94,6 +94,8 @@
 
 <br/>  
 
+## Last song I heard
+
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gianbu00&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=false" /></div>  
 
 <br/>  
@@ -104,6 +106,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
