@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Todo Page](https://github.com/wickedfluke/todo-page)  
   
 
-- 🌱 I’m currently learning SharePoint, PowerApps & PowerAutomate  
+- 🌱 I’m currently learning SharePoint, PowerApps, Power Automate & React SPFx  
   
 
 - ⚡ Fun fact: Mr. Robot isn't actually a robot...  
