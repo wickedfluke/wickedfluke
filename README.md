@@ -1,7 +1,7 @@
 ### <div align="center">I'm fluke, a full stack web developer, Telegram APIs Python developer & beatmaker</div>  
   
 
-- 🔭 I’m currently working on [Microsoft Graph SPFx Calendar](https://github.com/wickedfluke/newCalendar)  
+- 🔭 I’m currently working on Microsoft Graph SPFx Calendar
   
 
 - 🌱 I’m currently learning SharePoint, PowerApps, Power Automate & React SPFx  
