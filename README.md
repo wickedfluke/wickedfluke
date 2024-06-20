@@ -80,20 +80,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wickedfluke&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-<br/>  
-
-## Last song I listened to
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=gianbu00&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=false" /></div>  
-
 <br/>  
 
 ## My PSN Profile
