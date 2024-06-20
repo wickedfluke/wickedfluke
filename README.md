@@ -96,7 +96,9 @@
 
 <br/>  
 
-  
+## My PSN Profile
+
+<a href="https://psnprofiles.com/BubTNT"><img src="https://card.psnprofiles.com/1/BubTNT.png" border="0"></a>
 
 <br/>  
 
